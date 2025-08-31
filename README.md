@@ -1,2 +1,2 @@
 # LeeMail
-Lee mail is possibly the craziest E-Mail app known to mankind.
+LeeMail is possibly the craziest texting app known to mankind.
